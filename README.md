@@ -1,1 +1,1 @@
-# Django_CRUD
+# Django Blog application using api
